@@ -31,7 +31,8 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Talks
 
-* 07.2018, Wrocław - Presentation "auditor: an R package and methodology for validation of any statistical model" during the WhyR? 2018 Conference
+* 07.2018, Wrocław - Presentation ["auditor: an R package and methodology for validation of any statistical model"](talks/2018_07_WhyR_auditor.pdf) during the WhyR? 2018 Conference
+* 05.2018, Warsaw - Presentation ["LIME and anchors"](talks/2018_05_28_LIME_anchors.pdf) during the seminary [ML nad Wisłą](https://mi2-warsaw.github.io/MI2_UJ_Seminarium_webpage/meetings.html)
 * 03.2018, Warsaw - Presentation "Explain! Czyli jak wyjasnić działanie dowolnego modelu uczenia maszynowego" during the Student Conference on Applied Mathematics DwuMIan
 * 12.2017, Berlin - Presentation "MLExpResso - a tool for integrative analyses and visualization of gene expression and DNA methylation data" during the Symposium: Modern Statistical Methods From Data to Knowledge
 * 09.2017, Warsaw - Presentation "MLExpResso – NGS, Metylacja, Expresja, R i sporo kawy" in collaboration with Aleksandra Grudziąż during the Why R? 2017 Conference
