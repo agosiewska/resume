@@ -7,7 +7,8 @@ The Faculty of Mathematics and Information Science, Warsaw University of Technol
 
 * 2016 - 2018 - **MSc Studies in Mathematics,**  <br /> 
 Specialization: Mathematical Statistics and Data Analysis,  <br /> 
-The Faculty of Mathematics and Information Science, Warsaw University of Technology.
+The Faculty of Mathematics and Information Science, Warsaw University of Technology, <br /> 
+Master's Thesis: auditor: an R package and methodology for validation of statistical models.
 
 * 2013 - 2016 - **BS studies in Mathematics,** <br /> 
 Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw, <br /> 
