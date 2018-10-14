@@ -32,6 +32,7 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Talks
 
+* 10.2018, Warsaw - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at metup Warsaw R Enthusiast Group (SER)
 * 07.2018, Wrocław - Presentation ["auditor: an R package and methodology for validation of any statistical model"](talks/2018_07_WhyR_auditor.pdf) during the WhyR? 2018 Conference
 * 05.2018, Warsaw - Presentation ["LIME and anchors"](talks/2018_05_28_LIME_anchors.pdf) during the seminary [ML nad Wisłą](https://mi2-warsaw.github.io/MI2_UJ_Seminarium_webpage/meetings.html)
 * 03.2018, Warsaw - Presentation "Explain! Czyli jak wyjasnić działanie dowolnego modelu uczenia maszynowego" during the Student Conference on Applied Mathematics DwuMIan
