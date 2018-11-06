@@ -30,6 +30,10 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 * 09.2017, Warsaw - Coorganizer of [Why R? 2017 Conference](https://whyr2017.github.io)
 * 09.2017, Warsaw - Coorganizer of Urban Sensors - [The Data Science Hackathon](http://whyr.pl/hackathon/)
 
+## Publications
+
+* Grudziąż, Aleksandra., Alicja Gosiewska, and Przemysław Biecek. 2018. “survxai: an R package for structure-agnostic explanations of survival models”. Journal of Open Source Software, 3(31), 961, https://doi.org/10.21105/joss.00961
+
 ## Talks
 
 * 10.2018, Warsaw - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at metup Warsaw R Enthusiast Group (SER)
