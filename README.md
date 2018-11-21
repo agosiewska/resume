@@ -1,4 +1,4 @@
-﻿# Alicja Gosiewska
+# Alicja Gosiewska
 
 ## Education
 
@@ -45,8 +45,8 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Posters
 
-* 06.2018, Białystok - MLExpResso: a tool for integrative analyses and visualization of gene expression and DNA methylation data
-* 09.2017, Poznań - "MLExpResso - NGS, Methylation, Expression and a lot of coffee" made in collaboration with Przemysław Biecek and Aleksandra Grudziąż during the International RNAtion conference
+* 06.2018, Białystok - "MLExpResso: a tool for integrative analyses and visualization of gene expression and DNA methylation data" made in collaboration with Przemysław Biecek and Aleksandra Grudziąż for the Mathematics of Borderlands Conference.
+* 09.2017, Poznań - "MLExpResso - NGS, Methylation, Expression and a lot of coffee" made in collaboration with Przemysław Biecek and Aleksandra Grudziąż for the International RNAtion conference
 
 ## Workshops
 
