@@ -25,7 +25,7 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Scholarships
 
-* 12.2018 Why R? Supporting Grant for Woman in Data Science
+* 12.2018 - Why R? Supporting Grant for Woman in Data Science
 
 ## Additional Activities
 
