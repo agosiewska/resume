@@ -29,8 +29,8 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Additional Activities
 
-* 01.2017 -  Member of the [R-Ladies](https://rladies.org)
-* 01.2017 - Coorganizer of [SER - Warsaw R Enthusiast Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
+* 01.2017 - ... -  Member of the [R-Ladies](https://rladies.org)
+* 01.2017 - ... - Coorganizer of [SER - Warsaw R Enthusiast Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
 * 07.2018, Warsaw - Coorganizer of [Why R? 2018 Conference](http://whyr2018.pl)
 * 03.2018, Warsaw - Organizing Committee Co-coordinator - [Student Conference on Applied Mathematics DwuMIan (in Polish)](https://dwumian.mini.pw.edu.pl)
 * 09.2017, Warsaw - Coorganizer of [Why R? 2017 Conference](https://whyr2017.github.io)
