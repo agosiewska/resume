@@ -23,6 +23,7 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 * 12.2015 - 02.2016 - **Internship**, <br /> 
  PKO Bank Polski, Department of Fund Adequacy and Operational Risk
 
+ 
 ## Scholarships
 
 * 12.2018 - Why R? Supporting Grant for Woman in Data Science
