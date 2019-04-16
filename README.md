@@ -39,7 +39,8 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Publications
 
-* Grudziąż, Aleksandra., Alicja Gosiewska, and Przemysław Biecek. 2018. “survxai: an R package for structure-agnostic explanations of survival models”. Journal of Open Source Software, 3(31), 961, https://doi.org/10.21105/joss.00961
+**Please, find publications on [my Google Scholar profile](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl&oi=ao).**
+
 
 ## Talks
 
