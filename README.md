@@ -44,6 +44,7 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Talks
 
+* 08.2019, Potsdam - COSEAL Workshop: [EPP: interpretable score of model predictive power](https://github.com/agosiewska/resume/blob/master/talks/2019_08_Elo.pdf)
 * 12.2018, Wrocław - Knowledge Network Tech Meetup: [How good is your model?](https://slides.com/jusira/deck/fullscreen#/)
 * 10.2018, Warsaw - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at meetup Warsaw R Enthusiast Group (SER)
 * 07.2018, Wrocław - Presentation ["auditor: an R package and methodology for validation of any statistical model"](talks/2018_07_WhyR_auditor.pdf) during the WhyR? 2018 Conference
@@ -53,6 +54,10 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 * 09.2017, Warsaw - Presentation "MLExpResso – NGS, Metylacja, Expresja, R i sporo kawy" in collaboration with Aleksandra Grudziąż during the Why R? 2017 Conference
 
 ## Posters
+
+* 07.2019, Valencia - ICIAM: International Congress on Industrial and Applied Mathematics, Valencia, Spain 
+[SAFE ML: Surrogate Assisted Feature Extraction for Automated Model Training](https://github.com/mi2-warsaw/MI2/blob/master/Plakaty/2019_07_SAFE.pdf),
+Alicja Gosiewska, Przemysław Biecek
 
 * 12.2018, Warsaw -  PL in ML Polish View on Machine Learning,</br>
 [auditor: visual validation of predictive models](2018_12_auditor.pdf), </br>
