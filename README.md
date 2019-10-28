@@ -81,6 +81,7 @@ Aleksandra Dąbrowska, Alicja Gosiewska, Przemysław Biecek
 
 ## Workshops
 
+* 09.2019, Warsaw - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
 * 07.2018, Wrocław - R-Ladies Workshop at WhyR? 2018 Conference
 * 10.2017, Warsaw - Two-day workshop mentor within R-Ladies Warsaw and Geek Girls Carrots
 * 09.2017, Poznań - Workshop "Selected R packages for analysis of gene expression and DNA methylation. Case study with TCGA data." during the International RNAtion conference
