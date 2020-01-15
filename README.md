@@ -46,6 +46,7 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Talks
 
+* 11.2019, Davis CA -  Davis R Users’ Group (D-RUG): [Explainable Artificial Intelligence](https://d-rug.github.io/blog/2019/Alicja-Gosiewska-explainable-AI)
 * 08.2019, Potsdam - COSEAL Workshop: [EPP: interpretable score of model predictive power](https://github.com/agosiewska/resume/blob/master/talks/2019_08_Elo.pdf)
 * 12.2018, Wrocław - Knowledge Network Tech Meetup: [How good is your model?](https://slides.com/jusira/deck/fullscreen#/)
 * 10.2018, Warsaw - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at meetup Warsaw R Enthusiast Group (SER)
