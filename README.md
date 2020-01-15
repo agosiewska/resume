@@ -15,10 +15,10 @@ Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw, <br />
 Bachelor’s Thesis: Optimal information storage in noisy synapses under resource constraints.
 
 ## Experience
-* 10.2019 - 12.2019 - **Visiting Scholar** <br/>
-The Genome and Biomedical Sciences Facility, University of California, Davis
 * 10.2018 - ... - **PhD Scholarship - Navigated, Automated, and Interpretable Machine Learning**<br /> 
 Warsaw University of Technology, [MI2 DataLab](http://mi2.mini.pw.edu.pl/)
+* 10.2019 - 12.2019 - **Visiting Scholar** <br/>
+The Genome and Biomedical Sciences Facility, University of California, Davis
 * 09.2017 - 09.2018 - **Research assistant – statistical software at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)** <br /> 
 This position was part of the ["MLGenSig: Machine Learning Methods for building the Integrated Genetic Signatures"](https://mi2datalab.github.io/MLGenSig_webpage/index.html) project funded by NCN program OPUS 11.
 * 03.2017 - 8.2017 - **Data Hacker at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)** <br /> 
