@@ -46,44 +46,44 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 ## Talks
 
-* 11.2019, Davis CA -  Davis R Users’ Group (D-RUG): [Explainable Artificial Intelligence](https://d-rug.github.io/blog/2019/Alicja-Gosiewska-explainable-AI)
-* 08.2019, Potsdam - COSEAL Workshop: [EPP: interpretable score of model predictive power](https://github.com/agosiewska/resume/blob/master/talks/2019_08_Elo.pdf)
-* 12.2018, Wrocław - Knowledge Network Tech Meetup: [How good is your model?](https://slides.com/jusira/deck/fullscreen#/)
-* 10.2018, Warsaw - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at meetup Warsaw R Enthusiast Group (SER)
-* 07.2018, Wrocław - Presentation ["auditor: an R package and methodology for validation of any statistical model"](talks/2018_07_WhyR_auditor.pdf) during the WhyR? 2018 Conference
-* 05.2018, Warsaw - Presentation ["LIME and anchors"](talks/2018_05_28_LIME_anchors.pdf) during the seminary [ML nad Wisłą](https://mi2-warsaw.github.io/MI2_UJ_Seminarium_webpage/meetings.html)
-* 03.2018, Warsaw - Presentation "Explain! Czyli jak wyjasnić działanie dowolnego modelu uczenia maszynowego" during the Student Conference on Applied Mathematics DwuMIan
-* 12.2017, Berlin - Presentation "MLExpResso - a tool for integrative analyses and visualization of gene expression and DNA methylation data" during the Symposium: Modern Statistical Methods From Data to Knowledge
-* 09.2017, Warsaw - Presentation "MLExpResso – NGS, Metylacja, Expresja, R i sporo kawy" in collaboration with Aleksandra Grudziąż during the Why R? 2017 Conference
+* 11.2019, Davis CA, USA -  Davis R Users’ Group (D-RUG): [Explainable Artificial Intelligence](https://d-rug.github.io/blog/2019/Alicja-Gosiewska-explainable-AI)
+* 08.2019, Potsdam, Germany - COSEAL Workshop: [EPP: interpretable score of model predictive power](https://github.com/agosiewska/resume/blob/master/talks/2019_08_Elo.pdf)
+* 12.2018, Wrocław, Poland - Knowledge Network Tech Meetup: [How good is your model?](https://slides.com/jusira/deck/fullscreen#/)
+* 10.2018, Warsaw, Poland - Presentation ["auditor - diagnostyka modeli uczenia maszynowego"](talks/2018_10_11_SER_auditor.pdf) at meetup Warsaw R Enthusiast Group (SER)
+* 07.2018, Wrocław, Poland - Presentation ["auditor: an R package and methodology for validation of any statistical model"](talks/2018_07_WhyR_auditor.pdf) during the WhyR? 2018 Conference
+* 05.2018, Warsaw, Poland - Presentation ["LIME and anchors"](talks/2018_05_28_LIME_anchors.pdf) during the seminary [ML nad Wisłą](https://mi2-warsaw.github.io/MI2_UJ_Seminarium_webpage/meetings.html)
+* 03.2018, Warsaw, Poland - Presentation "Explain! Czyli jak wyjasnić działanie dowolnego modelu uczenia maszynowego" during the Student Conference on Applied Mathematics DwuMIan
+* 12.2017, Berlin, Germany - Presentation "MLExpResso - a tool for integrative analyses and visualization of gene expression and DNA methylation data" during the Symposium: Modern Statistical Methods From Data to Knowledge
+* 09.2017, Warsaw, Poland - Presentation "MLExpResso – NGS, Metylacja, Expresja, R i sporo kawy" in collaboration with Aleksandra Grudziąż during the Why R? 2017 Conference
 
 ## Posters
 
-* 07.2019, Valencia - ICIAM: International Congress on Industrial and Applied Mathematics, Valencia, Spain 
+* 07.2019, Valencia, Spain - ICIAM: International Congress on Industrial and Applied Mathematics, Valencia, Spain 
 [SAFE ML: Surrogate Assisted Feature Extraction for Automated Model Training](https://github.com/mi2-warsaw/MI2/blob/master/Plakaty/2019_07_SAFE.pdf),
 Alicja Gosiewska, Przemysław Biecek
 
-* 12.2018, Warsaw -  PL in ML Polish View on Machine Learning,</br>
+* 12.2018, Warsaw, Poland -  PL in ML Polish View on Machine Learning,</br>
 [auditor: visual validation of predictive models](2018_12_auditor.pdf), </br>
 The winner of the Audience award </br>
 Alicja Gosiewska, Agnieszka Ciepielewska, Przemysław Biecek
 
-* 11.2018, Lublin - IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana </br>
+* 11.2018, Lublin, Poland - IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana </br>
 [Explainable Survival Analysis with R and survxai](2018_12_survxai.pdf), </br>
 Alicja Gosiewska, Aleksandra Grudziąż, Przemysław Biecek
 
-* 06.2018, Białystok - Mathematics of Borderlands </br>
+* 06.2018, Białystok, Poland - Mathematics of Borderlands </br>
 [MLExpResso: a tool for integrative analyses and visualization of gene
 expression and DNA methylation data](2018_06_MLExpResso.pdf), </br>
 Przemysław Biecek, Alicja Gosiewska, Aleksandra Grudziąż
 
-* 09.2017, Poznań - RNAtion Poland</br>
+* 09.2017, Poznań, Poland - RNAtion Poland</br>
  [MLExpResso–NGS, Methylation, Expression, R and a lot of coffee](2017_09_MLExpResso.pdf), </br>
 Aleksandra Dąbrowska, Alicja Gosiewska, Przemysław Biecek
 
 ## Workshops
 
-* 09.2019, Warsaw - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
-* 07.2018, Wrocław - R-Ladies Workshop at WhyR? 2018 Conference
-* 10.2017, Warsaw - Two-day workshop mentor within R-Ladies Warsaw and Geek Girls Carrots
-* 09.2017, Poznań - Workshop "Selected R packages for analysis of gene expression and DNA methylation. Case study with TCGA data." during the International RNAtion conference
-* 05.2017, Warsaw - Workshop mentor within R-Ladies Warsaw (basic R workshops)
+* 09.2019, Warsaw, Poland - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
+* 07.2018, Wrocław, Poland - R-Ladies Workshop at WhyR? 2018 Conference
+* 10.2017, Warsaw, Poland - Two-day workshop mentor within R-Ladies Warsaw and Geek Girls Carrots
+* 09.2017, Poznań, Poland - Workshop "Selected R packages for analysis of gene expression and DNA methylation. Case study with TCGA data." during the International RNAtion conference
+* 05.2017, Warsaw, Poland - Workshop mentor within R-Ladies Warsaw (basic R workshops)
