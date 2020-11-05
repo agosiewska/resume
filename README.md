@@ -15,14 +15,14 @@ Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw, <br />
 Bachelor’s Thesis: Optimal information storage in noisy synapses under resource constraints.
 
 ## Experience
-* 10.2018 - ... - **PhD Scholarship - Navigated, Automated, and Interpretable Machine Learning**<br /> 
-Warsaw University of Technology, [MI2 DataLab](http://mi2.mini.pw.edu.pl/)
+
+* 07.2020 - ... - **Machine Learning Engineer** at [Tuatara](https://www.tuatara.pl/)
+
+* 03.2017 - ... - **Researcher** at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)
+
 * 10.2019 - 12.2019 - **Visiting Scholar** <br/>
 The Genome and Biomedical Sciences Facility, University of California, Davis
-* 09.2017 - 09.2018 - **Research assistant – statistical software at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)** <br /> 
-This position was part of the ["MLGenSig: Machine Learning Methods for building the Integrated Genetic Signatures"](https://mi2datalab.github.io/MLGenSig_webpage/index.html) project funded by NCN program OPUS 11.
-* 03.2017 - 8.2017 - **Data Hacker at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)** <br /> 
- This position was part of the ["MLGenSig: Machine Learning Methods for building the Integrated Genetic Signatures"](https://mi2datalab.github.io/MLGenSig_webpage/index.html) project funded by NCN program OPUS 11.
+
 * 12.2015 - 02.2016 - **Internship**, <br /> 
  PKO Bank Polski, Department of Fund Adequacy and Operational Risk
 
@@ -45,6 +45,10 @@ This position was part of the ["MLGenSig: Machine Learning Methods for building 
 
 
 ## Talks
+
+* 10.2020, Remote - Data Science Summit 2020 - Explain Explainable Machine Learning, joint with Szymon Maksymiuk
+
+* 09.2020, Remote - [Practical landscape of Explainable Machine Learning in R](https://www.youtube.com/watch?v=C7ac4A1t7sc&feature=youtu.be&t=2763&ab_channel=WhyR%3FFoundation), joint with Szymon Maksymiuk
 
 * 11.2019, Davis CA, USA -  Davis R Users’ Group (D-RUG): [Explainable Artificial Intelligence](https://d-rug.github.io/blog/2019/Alicja-Gosiewska-explainable-AI)
 
@@ -90,6 +94,7 @@ Aleksandra Dąbrowska, Alicja Gosiewska, Przemysław Biecek
 
 ## Workshops
 
+* 02.2020, Warsaw, Poland - Introduction to R at PoweR - Python + R for Data Science workshops
 * 09.2019, Warsaw, Poland - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
 * 07.2018, Wrocław, Poland - R-Ladies Workshop at WhyR? 2018 Conference
 * 10.2017, Warsaw, Poland - Two-day workshop mentor within R-Ladies Warsaw and Geek Girls Carrots
