@@ -18,7 +18,7 @@ Bachelor’s Thesis: Optimal information storage in noisy synapses under resourc
 
 * 07.2020 - ... - **Machine Learning Engineer** at [Tuatara](https://www.tuatara.pl/)
 
-* 03.2017 - ... - **Researcher** at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)
+* 03.2017 - 10.2021 - **Researcher** at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)
 
 * 10.2019 - 12.2019 - **Visiting Scholar** <br/>
 The Genome and Biomedical Sciences Facility, University of California, Davis
