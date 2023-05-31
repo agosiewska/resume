@@ -16,7 +16,9 @@ Bachelor’s Thesis: Optimal information storage in noisy synapses under resourc
 
 ## Experience
 
-* 07.2020 - ... - **Machine Learning Engineer** at [Tuatara](https://www.tuatara.pl/)
+* 05.2022 - ... - **Senior Data Scientist** at [Nevomo](https://4semantics.pl/en/)
+
+* 07.2020 - 04.2022 - **Machine Learning Engineer** at [4Semantics]([https://www.tuatara.pl/](https://4semantics.pl/en/))
 
 * 03.2017 - 10.2021 - **Researcher** at [MI^2 DataLab](http://mi2.mini.pw.edu.pl)
 
