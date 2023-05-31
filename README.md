@@ -2,7 +2,7 @@
 
 ## Education
 
-* 2018 - ... - **PhD Studies in Computer Science,** <br /> 
+* 2018 - 2021 - **PhD Studies in Computer Science (unfinished),** <br /> 
 The Faculty of Mathematics and Information Science, Warsaw University of Technology.
 
 * 2016 - 2018 - **MSc Studies in Mathematics,**  <br /> 
