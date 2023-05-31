@@ -16,7 +16,7 @@ Bachelor’s Thesis: Optimal information storage in noisy synapses under resourc
 
 ## Experience
 
-* 05.2022 - ... - **Senior Data Scientist** at [Nevomo](https://4semantics.pl/en/)
+* 05.2022 - ... - **Senior Data Scientist** at [Nevomo](https://www.nevomo.tech/en/)
 
 * 07.2020 - 04.2022 - **Machine Learning Engineer** at [4Semantics](https://4semantics.pl/en/)
 
